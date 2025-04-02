@@ -27,6 +27,10 @@ http ":8080/rag?searchPhrase=quiet"
 http ":8080/rag?searchPhrase=nature and pampering"
 
 http ":8080/rag?searchPhrase=culture and history"
+
+http ":8080/rag?searchPhrase=cultural food"
+
+http ":8080/rag?searchPhrase=Tell me about places with social and culture"
 ```
 
 *Note:* The above commands are using the https://httpie.io/[
@@ -36,7 +40,7 @@ HTTPie^] command line tool, but you can use `curl` similarly.
 
 PDF versions of accompanying presentations are published to SpeakerDeck.
 
-* _Coming soon!_
+* https://speakerdeck.com/jmhreif/graphrag-data-with-context[Arc of AI (March 2025)^]
 
 == Resources
 * Site: https://dev.neo4j.com/aura-java[Neo4j Aura^]
