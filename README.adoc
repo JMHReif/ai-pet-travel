@@ -40,6 +40,7 @@ HTTPie^] command line tool, but you can use `curl` similarly.
 
 PDF versions of accompanying presentations are published to SpeakerDeck.
 
+* https://speakerdeck.com/jmhreif/graphrag-for-java-developers-data-with-context[Atlanta JUG (April 2025)^]
 * https://speakerdeck.com/jmhreif/graphrag-data-with-context[Arc of AI (March 2025)^]
 
 == Resources
